@@ -123,9 +123,9 @@ Some insights derived from the analysis include:
 
 ## 📸 Dashboard Preview
 
-Example:
-
 ![EV Dashboard]([dashboard_screenshot.png](https://github.com/Nakul-GitH/EV-Dashboard/blob/main/Snapshot%20of%20EV%20Dashboard.jpg))
+
+https://github.com/Nakul-GitH/EV-Dashboard/blob/main/Snapshot%20of%20EV%20Dashboard.jpg
 
 ---
 
