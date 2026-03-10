@@ -123,7 +123,7 @@ Some insights derived from the analysis include:
 
 ## 📸 Dashboard Preview
 
-https://github.com/Nakul-GitH/EV-Dashboard/blob/main/Snapshot%20of%20EV%20Dashboard.jpg
+![EV Dashboard](https://github.com/Nakul-GitH/EV-Dashboard/blob/main/Snapshot%20of%20EV%20Dashboard.jpg)
 
 ---
 
